@@ -1,0 +1,4 @@
+# Access lock files and local copies
+*.laccdb
+~$*
+Backups/
